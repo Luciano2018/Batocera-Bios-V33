@@ -480,5 +480,5 @@ echo
 echo "Que esperas, reinicia de una vez"
 echo "What are you waiting, reboot"
 sleep 7
-#reboot
+reboot
 exit
