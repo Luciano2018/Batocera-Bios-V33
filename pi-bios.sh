@@ -214,201 +214,198 @@ echo "System ready for right installation"
 echo "Obteniendo Bios---Getting Bios, be patient"
 echo
 
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/5200.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam_ddp.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam_fdc.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam_kb.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam_prn.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/advision.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-ext-130-cdtv.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-ext-310-cd32.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-120.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-130.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-204.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-205.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-310-a1200.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-310-a3000.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-310-cd32.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-310.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/apfm1000.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/astrocde.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ATARIBAS.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ATARIOSA.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ATARIOSB.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ATARIXL.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/awbios.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bbc_acorn8271.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bbcb.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bios_CD_E.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bios_CD_J.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bios_CD_U.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/biosnds7.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/biosnds9.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/BS-X.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/c52.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/cdimono1.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/coco.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/crvision.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/dc_boot.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/dc_flash.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/disksys.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/egret.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/exec.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fm77av.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fm7.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/g7400.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gamate.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gamecom.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gamepock.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gba_bios.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gb_bios.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gbc_bios.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gmaster.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/goldstar.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/grom.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/hikaru.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/jopac.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick33180.A500 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick34005.A500 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick34005.CDTV -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick37175.A500 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick39106.A1200 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40060.CD32 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40060.CD32.ext -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40063.A600 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40068.A1200 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40068.A4000 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/lynxboot.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac128k.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac2fdhd.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac512k.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac608.chd -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac701.chd -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac755.chd -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macclasc.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MacII.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MacIIx.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/maciix.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mackbd_m0110a.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mackbd_m0110.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mackbd_m0120.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/maclc3.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macos3.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macos608.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macos701.img -P ../bios/
-wget https://archive.org/download/raspberry-pi-buenos-aires-batocera-v31-BIOS/Raspberry%20Pi%20Buenos%20Aires%20Batocera%20V33%20BIOS.zip/bios/macos75.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macplus.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macse.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mpr-17933.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mpr-18811-mx.ic1 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mpr-19367-mx.ic1 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX2EXT.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX2PEXT.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX2P.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX2.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX.ROM -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/naomi2.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/naomi.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/nb_48gc.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/nb_image.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/neocdz.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/neogeo.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/o2rom.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/panafz10.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/panafz1.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/pcfx.rom -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/psxonpsp660.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ROM1 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/saa5050.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/saturn_bios.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph1001.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph101.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph5500.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph5501.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph5502.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph7001.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sega_101.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/SGB1.sfc -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sgb2_boot.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/SGB2.sfc -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sgb_bios.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sgb_boot.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sl31253.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sl31254.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sl90025.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/STBIOS.bin -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/syscard3.pce -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ti99_4a.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos100fr.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos100uk.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos100us.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos102de.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos102fr.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos102uk.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104de.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104es.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104fr.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104uk.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104us.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106de.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106es.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106fr.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106uk.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106us.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos162de.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos162fr.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos162uk.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos162us.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205de.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205es.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205fr.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205it.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205us.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206de.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206fr.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206uk.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206us.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos306de.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos306uk.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos400.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos402.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos404.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos.img -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tutor.zip -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/upd7801g.s01 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/zcdata.data -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/zcsf.sf2 -P ../bios/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_DIC.ROM -P ../bios/fmtowns/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_DOS.ROM -P ../bios/fmtowns/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_F20.ROM -P ../bios/fmtowns/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_FNT.ROM -P ../bios/fmtowns/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_SYS.ROM -P ../bios/fmtowns/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/keropi/cgrom.dat -P ../bios/keropi/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/keropi/iplrom.dat -P ../bios/keropi/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mame/samples/bbc.zip -P ../bios/mame/samples/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/BIOS.ROM -P ../bios/np2kai/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/font.bmp -P ../bios/np2kai/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/FONT.ROM -P ../bios/np2kai/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/ITF.ROM -P ../bios/np2kai/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/SOUND.ROM -P ../bios/np2kai/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88EXT0.ROM -P ../bios/quasi88/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88EXT1.ROM -P ../bios/quasi88/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88EXT2.ROM -P ../bios/quasi88/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88EXT3.ROM -P ../bios/quasi88/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88N.ROM -P ../bios/quasi88/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88.ROM -P ../bios/quasi88/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88SUB.ROM -P ../bios/quasi88/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/xmil/IPLROM.X1 -P ../bios/xmil/
-wget https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/xmil/iplrom.x1t -P ../bios/xmil/
-
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/5200.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam_ddp.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam_fdc.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam_kb.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam_prn.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/adam.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/advision.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-ext-130-cdtv.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-ext-310-cd32.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-120.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-130.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-204.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-205.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-310-a1200.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-310-a3000.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-310-cd32.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/amiga-os-310.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/apfm1000.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/astrocde.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ATARIBAS.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ATARIOSA.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ATARIOSB.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ATARIXL.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/awbios.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bbc_acorn8271.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bbcb.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bios_CD_E.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bios_CD_J.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/bios_CD_U.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/biosnds7.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/biosnds9.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/BS-X.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/c52.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/cdimono1.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/coco.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/crvision.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/dc_boot.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/dc_flash.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/disksys.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/egret.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/exec.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fm77av.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fm7.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/g7400.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gamate.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gamecom.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gamepock.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gba_bios.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gb_bios.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gbc_bios.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/gmaster.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/goldstar.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/grom.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/hikaru.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/jopac.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick33180.A500 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick34005.A500 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick34005.CDTV -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick37175.A500 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick39106.A1200 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40060.CD32 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40060.CD32.ext -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40063.A600 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40068.A1200 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/kick40068.A4000 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/lynxboot.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac128k.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac2fdhd.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac512k.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac608.chd -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac701.chd -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mac755.chd -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macclasc.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MacII.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MacIIx.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/maciix.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mackbd_m0110a.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mackbd_m0110.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mackbd_m0120.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/maclc3.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macos3.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macos608.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macos701.img -P ../bios/
+wget -c https://archive.org/download/raspberry-pi-buenos-aires-batocera-v31-BIOS/Raspberry%20Pi%20Buenos%20Aires%20Batocera%20V33%20BIOS.zip/bios/macos75.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macplus.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/macse.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mpr-17933.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mpr-18811-mx.ic1 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mpr-19367-mx.ic1 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX2EXT.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX2PEXT.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX2P.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX2.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/MSX.ROM -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/naomi2.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/naomi.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/nb_48gc.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/nb_image.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/neocdz.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/neogeo.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/o2rom.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/panafz10.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/panafz1.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/pcfx.rom -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/psxonpsp660.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ROM1 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/saa5050.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/saturn_bios.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph1001.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph101.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph5500.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph5501.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph5502.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/scph7001.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sega_101.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/SGB1.sfc -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sgb2_boot.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/SGB2.sfc -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sgb_bios.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sgb_boot.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sl31253.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sl31254.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/sl90025.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/STBIOS.bin -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/syscard3.pce -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/ti99_4a.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos100fr.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos100uk.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos100us.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos102de.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos102fr.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos102uk.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104de.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104es.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104fr.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104uk.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos104us.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106de.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106es.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106fr.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106uk.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos106us.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos162de.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos162fr.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos162uk.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos162us.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205de.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205es.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205fr.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205it.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos205us.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206de.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206fr.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206uk.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos206us.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos306de.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos306uk.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos400.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos402.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos404.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tos.img -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/tutor.zip -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/upd7801g.s01 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/zcdata.data -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/zcsf.sf2 -P ../bios/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_DIC.ROM -P ../bios/fmtowns/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_DOS.ROM -P ../bios/fmtowns/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_F20.ROM -P ../bios/fmtowns/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_FNT.ROM -P ../bios/fmtowns/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/fmtowns/FMT_SYS.ROM -P ../bios/fmtowns/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/keropi/cgrom.dat -P ../bios/keropi/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/keropi/iplrom.dat -P ../bios/keropi/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/mame/samples/bbc.zip -P ../bios/mame/samples/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/BIOS.ROM -P ../bios/np2kai/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/font.bmp -P ../bios/np2kai/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/FONT.ROM -P ../bios/np2kai/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/ITF.ROM -P ../bios/np2kai/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/np2kai/SOUND.ROM -P ../bios/np2kai/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88EXT0.ROM -P ../bios/quasi88/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88EXT1.ROM -P ../bios/quasi88/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88EXT2.ROM -P ../bios/quasi88/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88EXT3.ROM -P ../bios/quasi88/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88N.ROM -P ../bios/quasi88/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88.ROM -P ../bios/quasi88/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/quasi88/N88SUB.ROM -P ../bios/quasi88/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/xmil/IPLROM.X1 -P ../bios/xmil/
+wget -c https://raw.githubusercontent.com/Luciano2018/Batocera-Bios-V33/master/bios/xmil/iplrom.x1t -P ../bios/xmil/
 echo
 sleep 1
 echo "Al fin, Copiadas todas las BIOS--Cool we finish"
 echo
-
-
 echo "Reinicia tu Raspberry Pi y Disfruta--Reboot and Enjoy"
 echo "Saludos desde Raspberry Pi Buenos Aires"
 echo
@@ -425,4 +422,4 @@ echo "Que esperas, reinicia de una vez"
 echo "What are you waiting, reboot"
 sleep 7
 reboot
-exit
+exit 0
